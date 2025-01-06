@@ -50,7 +50,7 @@ Scrolling down the About page reveals the names and roles of the team members wh
 ## Technologies Used
 
 - **Web Development**: HTML, CSS, JavaScript, React
-- **Hardware Development**: [Add relevant technologies or platforms used, e.g., Arduino, Raspberry Pi]
+- **Hardware Development**: Arduino, Raspberry Pi
 
 ---
 
